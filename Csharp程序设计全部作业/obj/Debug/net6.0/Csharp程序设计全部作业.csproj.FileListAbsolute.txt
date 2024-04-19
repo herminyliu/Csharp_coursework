@@ -1,0 +1,15 @@
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\bin\Debug\net6.0\Csharp程序设计全部作业.exe
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\bin\Debug\net6.0\Csharp程序设计全部作业.deps.json
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\bin\Debug\net6.0\Csharp程序设计全部作业.runtimeconfig.json
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\bin\Debug\net6.0\Csharp程序设计全部作业.dll
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\bin\Debug\net6.0\Csharp程序设计全部作业.pdb
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\Csharp程序设计全部作业.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\Csharp程序设计全部作业.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\Csharp程序设计全部作业.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\Csharp程序设计全部作业.AssemblyInfo.cs
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\Csharp程序设计全部作业.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\Csharp程序设计全部作业.dll
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\refint\Csharp程序设计全部作业.dll
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\Csharp程序设计全部作业.pdb
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\Csharp程序设计全部作业.genruntimeconfig.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\Csharp程序设计全部作业\obj\Debug\net6.0\ref\Csharp程序设计全部作业.dll

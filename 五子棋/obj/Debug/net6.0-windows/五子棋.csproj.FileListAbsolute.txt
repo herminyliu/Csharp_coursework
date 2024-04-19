@@ -1,0 +1,36 @@
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.exe
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.deps.json
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.runtimeconfig.json
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.dll
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.pdb
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.Form1.resources
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.AssemblyInfoInputs.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.AssemblyInfo.cs
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.dll
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\refint\五子棋.dll
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.pdb
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.genruntimeconfig.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\ref\五子棋.dll
+C:\Users\1\source\repos\Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.Properties.Resources.resources
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.exe
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.deps.json
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.runtimeconfig.json
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.dll
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\bin\Debug\net6.0-windows\五子棋.pdb
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.csproj.AssemblyReference.cache
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.Form1.resources
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.Properties.Resources.resources
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.csproj.GenerateResource.cache
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.GeneratedMSBuildEditorConfig.editorconfig
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.AssemblyInfoInputs.cache
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.AssemblyInfo.cs
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.csproj.CoreCompileInputs.cache
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.dll
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\refint\五子棋.dll
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.pdb
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\五子棋.genruntimeconfig.cache
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\五子棋\obj\Debug\net6.0-windows\ref\五子棋.dll

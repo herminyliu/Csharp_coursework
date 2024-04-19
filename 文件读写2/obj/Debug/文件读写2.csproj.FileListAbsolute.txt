@@ -1,0 +1,22 @@
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\bin\Debug\文件读写2.exe.config
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\bin\Debug\文件读写2.exe
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\bin\Debug\文件读写2.pdb
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.csproj.AssemblyReference.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.csproj.SuggestedBindingRedirects.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.Form1.resources
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.Properties.Resources.resources
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.csproj.GenerateResource.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.csproj.CoreCompileInputs.cache
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.exe
+C:\Users\1\source\repos\Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.pdb
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\bin\Debug\文件读写2.exe.config
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\bin\Debug\文件读写2.exe
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\bin\Debug\文件读写2.pdb
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.csproj.AssemblyReference.cache
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.csproj.SuggestedBindingRedirects.cache
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.Form1.resources
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.Properties.Resources.resources
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.csproj.GenerateResource.cache
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.csproj.CoreCompileInputs.cache
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.exe
+D:\学习\时间较久的文件\C# Project\刘般若Csharp程序设计全部作业\文件读写2\obj\Debug\文件读写2.pdb
